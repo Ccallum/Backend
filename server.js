@@ -12,4 +12,4 @@ mongoose.connect(db, (error) => {
       console.log('Node server running on http://localhost:3000');
     });
   }
-});
+}); // prueba
